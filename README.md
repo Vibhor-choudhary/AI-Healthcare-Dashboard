@@ -130,7 +130,7 @@ These hurdles, while demanding, significantly contributed to my growth as a data
 
 ## 🔗 Live Dashboard & 📚 Resources
 
-- [View Dashboard on Tableau Public](#) *(link to be added)*
+- [View Dashboard on Tableau Public](#) *(https://public.tableau.com/views/AivsNonAiDashboard/AIVSNONAIJOBS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ---
 
