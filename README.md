@@ -128,14 +128,13 @@ These hurdles, while demanding, significantly contributed to my growth as a data
 ## 🔗 Live Dashboard & 📚 Resources
 
 - [View Dashboard on Tableau Public](#) *(link to be added)*
-- [Download Datasets](#) *(optional links to Excel files)*
 
 ---
 
 ## 👍 If You Liked This Project...
 
 - Leave a ⭐ on GitHub
-- Connect on [LinkedIn](#) *(www.linkedin.com/in/vibhor-choudhary)*
+- Connect on [LinkedIn](www.linkedin.com/in/vibhor-choudhary) 
 
 ---
 
