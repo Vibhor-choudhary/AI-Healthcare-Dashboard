@@ -9,7 +9,6 @@ Artificial Intelligence (🤖) is no longer a future concept—it's actively tra
 
 This project is part of a personal data visualization initiative to communicate data-driven stories with real-world relevance and analytical depth.
 
----
 
 ---
 
@@ -93,7 +92,6 @@ This project is part of a personal data visualization initiative to communicate 
 
 - **Tableau Public**: Dashboarding and Visual Design
 - **Microsoft Excel**: Data cleaning, preparation
-- **Canva/Figma (optional)**: Design planning and layout mapping
 
 ---
 
@@ -145,7 +143,7 @@ You can interact with the full dashboard here:
 
 ---
 
-**Author**: [VIBHOR CHOUDHARY]  \
+**Author**: VIBHOR CHOUDHARY  \
 **Role**: Data Science Enthusiast | Tableau Practitioner | Storyteller With Data  \
 **Contact**: [LinkedIn - www.linkedin.com/in/vibhor-choudhary]
 
