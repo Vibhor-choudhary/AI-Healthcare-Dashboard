@@ -10,7 +10,6 @@ Artificial Intelligence (🤖) is no longer a future concept—it's actively tra
 This project is part of a personal data visualization initiative to communicate data-driven stories with real-world relevance and analytical depth.
 
 ---
-![Dashboard Preview](./Assets/Full Dashboard.png)
 
 ---
 
